@@ -1,5 +1,8 @@
 # Travelling-Website
 
+> 📹 Visual walkthrough and UI explanation available on LinkedIn:  
+> https://www.linkedin.com/posts/fizza-ali-awan_frontenddevelopment-webdevelopment-uiuxdesign-activity-7362550296172027905-rbvy
+
 A comprehensive **multi-page travel website** showcasing the beauty of Pakistan. This project highlights key tourist destinations using a clean, modern, and responsive design with intuitive navigation and informative content.
 
 ## 🌟 Features
